@@ -1,0 +1,13 @@
+{
+    "scripts":
+    [
+        {
+            "title": "Tiny Woods Intro_Main",
+            "offset": "0x29ED30"
+        },
+        {
+            "title": "Tiny Woods Intro_Player",
+            "offset": "0x2A00E0"
+        }
+    ]
+}
