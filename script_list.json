@@ -2,12 +2,40 @@
     "scripts":
     [
         {
-            "title": "Tiny Woods Intro_Main",
+            "title": "Tiny Woods Entrance_Intro_Main",
             "offset": "0x29ED30"
         },
         {
-            "title": "Tiny Woods Intro_Player",
+            "title": "Tiny Woods Entrance_Intro_Player",
             "offset": "0x2A00E0"
+        },
+        {
+            "title": "Tiny Woods Heart_CaterpieRescued_Main",
+            "offset": "0x2A1038"
+        },
+        {
+            "title": "Tiny Woods Heart_CaterpieRescued_Player",
+            "offset": "0x2A11D8"
+        },
+        {
+            "title": "Tiny Woods Entrance_ButterfreeThanksYou_Player",
+            "offset": "0x29F9B0"
+        },
+        {
+            "title": "Team Base Exterior_PartnerShowsBase_Main",
+            "offset": "0x228C54"
+        },
+        {
+            "title": "Team Base Exterior_PartnerShowsBase_Player",
+            "offset": "0x23E154"
+        },
+        {
+            "title": "Team Base Exterior_PartnerShowsBase_Partner",
+            "offset": "0x22EB54"
+        },
+        {
+            "title": "Title Screen_IntroSplashScreen_Main",
+            "offset": "0x2E2190"
         }
     ]
 }
