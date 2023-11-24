@@ -78,8 +78,80 @@
             "offset": "0x21de44"
         },
         {
-            "title": "Thunderwave Cave_Entrance_Main",
+            "title": "Thunderwave Cave Entrance_Intro_Main",
             "offset": "0x2a1a84"
+        },
+        {
+            "title": "Thunderwave Cave Depths_MagnemiteRescued_Main",
+            "offset": "0x2a32f0"
+        },
+        {
+            "title": "Thunderwave Cave Entrance_MagnemiteThanksYou_Main",
+            "offset": "0x2a1e34"
+        },
+        {
+            "title": "Thunderwave Cave Entrance_MagnemiteThanksYou_Player",
+            "offset": "0x2a2b94"
+        },
+        {
+            "title": "Thunderwave Cave Entrance_MagnemiteThanksYou_Partner",
+            "offset": "0x2a1ed4"
+        },
+        {
+            "title": "Thunderwave Cave Entrance_MagnemiteThanksYou_Magnemite1",
+            "offset": "0x2a2584"
+        },
+        {
+            "title": "Thunderwave Cave Entrance_MagnemiteThanksYou_Magnemite2",
+            "offset": "0x2a21e4"
+        },
+        {
+            "title": "Thunderwave Cave Entrance_MagnemiteThanksYou_Magnemite3",
+            "offset": "0x2a2014"
+        },
+        {
+            "title": "Thunderwave Cave Entrance_MagnemiteThanksYou_Magnemite4",
+            "offset": "0x2a2304"
+        },
+        {
+            "title": "Team Base Exterior_ThunderwaveCaveDebrief_Main",
+            "offset": "0x2208c4"
+        },
+        {
+            "title": "Team Base Interior_PreDream_Main",
+            "offset": "0x252004"
+        },
+        {
+            "title": "Dream World_FirstDream_Main",
+            "offset": "0x282320"
+        },
+        {
+            "title": "Team Base Interior_MorningAfterFirstDream_Main",
+            "offset": "0x253074"
+        },
+        {
+            "title": "Team Base Interior_MorningAfterFirstDream_Player",
+            "offset": "0x2541d4"
+        },
+        {
+            "title": "Team Base Exterior_MorningAfterThunderwaveCave_Main",
+            "offset": "0x21df94"
+        },
+        {
+            "title": "Town Square_TourOfTown_Main",
+            "offset": "0x1be748"
+        },
+        {
+            "title": "Town Square_TourOfTown_Player",
+            "offset": "0x1d5c10"
+        },
+        {
+            "title": "Town Square_TourOfTown_Partner",
+            "offset": "0x1c5490"
+        },
+        {
+            "title": "Town Square_TourOfTown_Camera",
+            "offset": "0x1c3778"
         }
     ]
 }
