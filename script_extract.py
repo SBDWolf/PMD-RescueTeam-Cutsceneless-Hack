@@ -154,6 +154,6 @@ for script in script_data['scripts']:
                 f.seek(-1, 1)   # go one byte back to prepare for reading the entire command
                 command_binary_data = str(binascii.hexlify(f.read(16)))[2:-1]
                 o.write(command_binary_data + "| " + command_name + "\n" )
-                if (command_id == "ef" or command_id == "f0"):
+                if (command_id == "ef" or command_id == "f0" or command_id == "f1"):
                     break
                 i = i + 1

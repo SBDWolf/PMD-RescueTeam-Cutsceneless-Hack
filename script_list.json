@@ -36,6 +36,50 @@
         {
             "title": "Title Screen_IntroSplashScreen_Main",
             "offset": "0x2E2190"
+        },
+        {
+            "title": "Team Base Interior_FirstMorning_Main",
+            "offset": "0x254764"
+        },
+        {
+            "title": "Team Base Interior_FirstMorning_Player",
+            "offset": "0x255ee4"
+        },
+        {
+            "title": "Team Base Interior_FirstMorningAfterNap_Main",
+            "offset": "0x252fa4"
+        },
+        {
+            "title": "Team Base Interior_FirstMorningAfterNap_Player",
+            "offset": "0x254894"
+        },
+        {
+            "title": "Team Base Exterior_PlayerWakesPartner_Main",
+            "offset": "0x2245dc"
+        },
+        {
+            "title": "Team Base Exterior_PlayerWakesPartner_Player",
+            "offset": "0x240084"
+        },
+        {
+            "title": "Team Base Exterior_PlayerWakesPartner_Partner",
+            "offset": "0x239924"
+        },
+        {
+            "title": "Team Base Exterior_PlayerWakesPartner_Camera",
+            "offset": "0x21c894"
+        },
+        {
+            "title": "Team Base Exterior_PlayerSaysToReadTheMail_Main",
+            "offset": "0x2246bc"
+        },
+        {
+            "title": "Team Base Exterior_LetterFromMagnemite_Main",
+            "offset": "0x21de44"
+        },
+        {
+            "title": "Thunderwave Cave_Entrance_Main",
+            "offset": "0x2a1a84"
         }
     ]
 }
