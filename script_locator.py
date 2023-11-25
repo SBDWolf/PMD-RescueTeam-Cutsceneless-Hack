@@ -26,8 +26,8 @@ with open(input_rrt_rom, "rb") as rrt_rom:
     while(True):
         command = rrt_rom.read(16)
         # don't use any command that could contain a pointer, as well as any script-ending command
-        #0x32 = MSG_PLAIN, 0x33 = MSG_THOUGHT, 0x34 = MSG_SPEECH, 0x35 = MSG_READING, 0x39 = MSG_FLOATY, 0xef = END, 0xf0 = CLOSE, 0xf1 = REMOVE
-        if(command[0] == 0x32 or command[0] == 0x33 or command[0] == 0x34 or command[0] == 0x35 or command[0] == 0x39 or command[0] == 0xef or command[0] == 0xf0 or command[0] == 0xf1):
+        #0x32 = MSG_PLAIN, 0x33 = MSG_THOUGHT, 0x34 = MSG_SPEECH, 0x35 = MSG_READING, 0x39 = MSG_FLOATY, 0xd0 = CASE, 0xd1 = DEFAULT, 0xef = END, 0xf0 = CLOSE, 0xf1 = REMOVE
+        if(command[0] == 0x32 or command[0] == 0x33 or command[0] == 0x34 or command[0] == 0x35 or command[0] == 0x39 or command[0] == 0xd0 or command[0] == 0xd1 or command[0] == 0xef or command[0] == 0xf0 or command[0] == 0xf1):
             break
         else:
             search_hex_sequence = search_hex_sequence + command

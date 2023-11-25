@@ -78,6 +78,14 @@
             "offset": "0x21de44"
         },
         {
+            "title": "Team Base Exterior_LetterFromMagnemite_Player",
+            "offset": "0x2386a4"
+        },
+        {
+            "title": "Team Base Exterior_LetterFromMagnemite_Partner",
+            "offset": "0x21f2e4"
+        },
+        {
             "title": "Thunderwave Cave Entrance_Intro_Main",
             "offset": "0x2a1a84"
         },
@@ -152,6 +160,58 @@
         {
             "title": "Town Square_TourOfTown_Camera",
             "offset": "0x1c3778"
+        },
+        {
+            "title": "Pelipper Post Office Exterior_Intro_Main",
+            "offset": "0x1fced0"
+        },
+        {
+            "title": "Pelipper Post Office Exterior_Intro_Player",
+            "offset": "0x200c20"
+        },
+        {
+            "title": "Pelipper Post Office Exterior_Intro_Partner",
+            "offset": "0x1fdb40"
+        },
+        {
+            "title": "Pelipper Post Office Exterior_Intro_Camera",
+            "offset": "0x1fcfc0"
+        },
+        {
+            "title": "Pelipper Post Office Exterior_Intro_Pelipper7",
+            "offset": "0x1fd390"
+        },
+        {
+            "title": "Pelipper Post Office Exterior_Intro_Pelipper8",
+            "offset": "0x1fd490"
+        },
+        {
+            "title": "Dream World_SecondDream_Main",
+            "offset": "0x282520"
+        },
+        {
+            "title": "Team Base Interior_DugtrioSeeksHelp_Main",
+            "offset": "0x2543f4"
+        },
+        {
+            "title": "Team Base Interior_DugtrioSeeksHelp_Player",
+            "offset": "0x25819c"
+        },
+        {
+            "title": "Team Base Exterior_PartnerLearnsOfDugtrioMission_Main",
+            "offset": "0x2231ec"
+        },
+        {
+            "title": "Team Base Exterior_PartnerLearnsOfDugtrioMission_Player",
+            "offset": "0x2342f4"
+        },
+        {
+            "title": "Team Base Exterior_PartnerLearnsOfDugtrioMission_Partner",
+            "offset": "0x227bdc"
+        },
+        {
+            "title": "Mt Steel Entrance_Intro_Main",
+            "offset": "0x2a3ac0"
         }
     ]
 }
