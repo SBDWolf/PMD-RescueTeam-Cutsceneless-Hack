@@ -252,6 +252,154 @@
         {
             "title": "Team Base Exterior_MtSteelDebrief_Dugtrio",
             "offset": "0x22c5e4"
+        },
+        {
+            "title": "Dream World_ThirdDream_Main",
+            "offset": "0x2820a0"
+        },
+        {
+            "title": "Team Base Interior_MorningAfterMtSteel_Main",
+            "offset": "0x254e94"
+        },
+        {
+            "title": "Team Base Interior_MorningAfterMtSteel_Player",
+            "offset": "0x251a04"
+        },
+        {
+            "title": "Team Base Exterior_PlayerDiscussesDreams_Main",
+            "offset": "0x21e964"
+        },
+        {
+            "title": "Team Base Exterior_PlayerDiscussesDreams_Player",
+            "offset": "0x23c5e4"
+        },
+        {
+            "title": "Team Base Exterior_PlayerDiscussesDreams_Partner",
+            "offset": "0x2285c4"
+        },
+        {
+            "title": "Town Square_FirstWigglytuffVisit_Main",
+            "offset": "0x1b83d0"
+        },
+        {
+            "title": "Town Square_FirstWigglytuffVisit_Player",
+            "offset": "0x1dc190"
+        },
+        {
+            "title": "Town Square_FirstWigglytuffVisit_Partner",
+            "offset": "0x1c39f8"
+        },
+        {
+            "title": "Town Square_FirstWigglytuffVisit_Wigglytuff",
+            "offset": "0x1beb58"
+        },
+        {
+            "title": "Town Square_FirstWigglytuffVisit_Magnemite1",
+            "offset": "0x1c9c60"
+        },
+        {
+            "title": "Town Square_FirstWigglytuffVisit_Magnemite2",
+            "offset": "0x1c66b8"
+        },
+        {
+            "title": "Town Square_JumpluffConfrontsShiftry_Main",
+            "offset": "0x1bfea0"
+        },
+        {
+            "title": "Town Square_JumpluffConfrontsShiftry_Player",
+            "offset": "0x1dfe10"
+        },
+        {
+            "title": "Town Square_JumpluffConfrontsShiftry_Partner",
+            "offset": "0x1ca9d0"
+        },
+        {
+            "title": "Team Base Interior_MorningAfterJumpluffConfrontation_Main",
+            "offset": "0x255894"
+        },
+        {
+            "title": "Team Base Interior_MorningAfterJumpluffConfrontation_Player",
+            "offset": "0x252084"
+        },
+        {
+            "title": "Team Base Exterior_GenericPartnerGreeting_Player",
+            "offset": "0x21fab4"
+        },
+        {
+            "title": "Team Base Interior_MorningBeforeTeamMeaniesSteal_Main",
+            "offset": "0x254fd4"
+        },
+        {
+            "title": "Team Base Interior_MorningBeforeTeamMeaniesSteal_Player",
+            "offset": "0x251a84"
+        },
+        {
+            "title": "Team Base Exterior_TeamMeaniesStealsMail_Main",
+            "offset": "0x22361c"
+        },
+        {
+            "title": "Team Base Exterior_TeamMeaniesStealsMail_Player",
+            "offset": "0x2439c4"
+        },
+        {
+            "title": "Team Base Exterior_TeamMeaniesStealsMail_Partner",
+            "offset": "0x237174"
+        },
+        {
+            "title": "Team Base Exterior_TeamMeaniesStealsMail_Camera",
+            "offset": "0x220ddc"
+        },
+        {
+            "title": "Team Base Exterior_TeamMeaniesStealsMail_Gengar",
+            "offset": "0x2295e4"
+        },
+        {
+            "title": "Team Base Exterior_TeamMeaniesStealsMail_Ekans",
+            "offset": "0x22670c"
+        },
+        {
+            "title": "Team Base Exterior_TeamMeaniesStealsMail_Medicham",
+            "offset": "0x228ef4"
+        },
+        {
+            "title": "Team Base Exterior_TeamMeaniesStealsMail_Pelipper",
+            "offset": "0x22f5e4"
+        },
+        {
+            "title": "Team Base Interior_MorningBeforeSinisterWoods_Main",
+            "offset": "0x255114"
+        },
+        {
+            "title": "Team Base Interior_MorningBeforeSinisterWoods_Player",
+            "offset": "0x251b04"
+        },
+        {
+            "title": "Team Base Exterior_CaterpieSeeksHelp_Main",
+            "offset": "0x22495c"
+        },
+        {
+            "title": "Team Base Exterior_CaterpieSeeksHelp_Player",
+            "offset": "0x241724"
+        },
+        {
+            "title": "Team Base Exterior_CaterpieSeeksHelp_Partner",
+            "offset": "0x231644"
+        },
+        {
+            "title": "Team Base Exterior_CaterpieSeeksHelp_Gengar",
+            "offset": "0x22d7f4"
+        },
+        {
+            "title": "Team Base Exterior_CaterpieSeeksHelp_Ekans",
+            "offset": "0x22158c"
+        },
+        {
+            "title": "Team Base Exterior_CaterpieSeeksHelp_Medicham",
+            "offset": "0x22164c"
+        },
+        {
+            "title": "Team Base Exterior_CaterpieSeeksHelp_Caterpie",
+            "offset": "0x229754"
         }
     ]
 }
