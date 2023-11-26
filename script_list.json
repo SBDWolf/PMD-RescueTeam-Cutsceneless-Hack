@@ -186,6 +186,14 @@
             "offset": "0x1fd490"
         },
         {
+            "title": "Team Base Exterior_GenericMissionsSuccess_Main",
+            "offset": "0x22784c"
+        },
+        {
+            "title": "Team Base Exterior_GenericMissionsSuccess_Player",
+            "offset": "0x2251cc"
+        },
+        {
             "title": "Dream World_SecondDream_Main",
             "offset": "0x282520"
         },
@@ -212,6 +220,38 @@
         {
             "title": "Mt Steel Entrance_Intro_Main",
             "offset": "0x2a3ac0"
+        },
+        {
+            "title": "Mt Steel Peak_BossDefeat_Main",
+            "offset": "0x2a4cf8"
+        },
+        {
+            "title": "Team Base Exterior_MtSteelDebrief_Main",
+            "offset": "0x220b44"
+        },
+        {
+            "title": "Team Base Exterior_MtSteelDebrief_Player",
+            "offset": "0x249dc4"
+        },
+        {
+            "title": "Team Base Exterior_MtSteelDebrief_Partner",
+            "offset": "0x238fb4"
+        },
+        {
+            "title": "Team Base Exterior_MtSteelDebrief_Diglett",
+            "offset": "0x22c424"
+        },
+        {
+            "title": "Team Base Exterior_MtSteelDebrief_Magnemite1",
+            "offset": "0x236224"
+        },
+        {
+            "title": "Team Base Exterior_MtSteelDebrief_Magnemite2",
+            "offset": "0x2326f4"
+        },
+        {
+            "title": "Team Base Exterior_MtSteelDebrief_Dugtrio",
+            "offset": "0x22c5e4"
         }
     ]
 }
