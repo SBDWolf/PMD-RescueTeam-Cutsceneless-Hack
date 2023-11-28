@@ -404,6 +404,142 @@
         {
             "title": "Team Base Exterior_CaterpieSeeksHelp_Camera",
             "offset": "0x2221ac"
+        },
+        {
+            "title": "Sinister Woods Entrance_Intro_Main",
+            "offset": "0x2a5f38"
+        },
+        {
+            "title": "Sinister Woods Heart_BossDefeat_Main",
+            "offset": "0x2a67e0"
+        },
+        {
+            "title": "Team Base Exterior_SinisterWoodsDebrief_Main",
+            "offset": "0x21fec4"
+        },
+        {
+            "title": "Team Base Interior_MorningBeforeSilentChasm_Main",
+            "offset": "0x255254"
+        },
+        {
+            "title": "Team Base Interior_MorningBeforeSilentChasm_Player",
+            "offset": "0x251c04"
+        },
+        {
+            "title": "Team Base Exterior_JumpluffSeeksHelp_Main",
+            "offset": "0x21ebe4"
+        },
+        {
+            "title": "Town Square_JumpluffConfrontsShiftryFlashback_Main",
+            "offset": "0x1ba818"
+        },
+        {
+            "title": "Team Base Exterior_JumpluffSeeksHelpAfterFlashback_Main",
+            "offset": "0x2236fc"
+        },
+        {
+            "title": "Team Base Exterior_JumpluffSeeksHelpAfterFlashback_Player",
+            "offset": "0x23a964"
+        },
+        {
+            "title": "Team Base Exterior_JumpluffSeeksHelpAfterFlashback_Partner",
+            "offset": "0x2298c4"
+        },
+        {
+            "title": "Team Base Exterior_JumpluffSeeksHelpAfterFlashback_Jumpluff",
+            "offset": "0x220fec"
+        },
+        {
+            "title": "Silent Chasm Entrance_Intro_Main",
+            "offset": "0x2a7cc0"
+        },
+        {
+            "title": "Silent Chasm Depths_JumpluffRescued_Main",
+            "offset": "0x2a9a2c"
+        },
+        {
+            "title": "Team Base Exterior_SilentChasmDebrief_Main",
+            "offset": "0x220004"
+        },
+        {
+            "title": "Team Base Interior_MorningBeforeMtThunder_Main",
+            "offset": "0x255394"
+        },
+        {
+            "title": "Team Base Interior_MorningBeforeMtThunder_Player",
+            "offset": "0x251d04"
+        },
+        {
+            "title": "Team Base Exterior_MtThunderBrief_Main",
+            "offset": "0x22241c"
+        },
+        {
+            "title": "Team Base Exterior_MtThunderBrief_Player",
+            "offset": "0x22b6d4"
+        },
+        {
+            "title": "Team Base Exterior_MtThunderBrief_Partner",
+            "offset": "0x21ed64"
+        },
+        {
+            "title": "Mt Thunder Entrance_Intro_Main",
+            "offset": "0x2aafd4"
+        },
+        {
+            "title": "Mt Thunder Summit_BossDefeat_Main",
+            "offset": "0x2acfc4"
+        },
+        {
+            "title": "Team Base Interior_MorningBeforeGreatCanyon_Main",
+            "offset": "0x2554d4"
+        },
+        {
+            "title": "Team Base Interior_MorningBeforeGreatCanyon_Player",
+            "offset": "0x251e04"
+        },
+        {
+            "title": "Team Base Exterior_GreatCanyonBrief_Main",
+            "offset": "0x22268c"
+        },
+        {
+            "title": "Team Base Exterior_GreatCanyonBrief_Player",
+            "offset": "0x23b674"
+        },
+        {
+            "title": "Team Base Exterior_GreatCanyonBrief_Partner",
+            "offset": "0x229a34"
+        },
+        {
+            "title": "Team Base Exterior_GreatCanyonBrief_Camera",
+            "offset": "0x21ede4"
+        },
+        {
+            "title": "Great Canyon Entrance_Intro_Main",
+            "offset": "0x2af6a8"
+        },
+        {
+            "title": "Hill of the Ancients_XatuMeeting_Main",
+            "offset": "0x2b1300"
+        },
+        {
+            "title": "Team Base Interior_MorningAfterGreatCanyon_Main",
+            "offset": "0x255614"
+        },
+        {
+            "title": "Team Base Interior_MorningAfterGreatCanyon_Player",
+            "offset": "0x251f04"
+        },
+        {
+            "title": "Team Base Exterior_WorldsBalance_Main",
+            "offset": "0x22282c"
+        },
+        {
+            "title": "Team Base Exterior_WorldsBalance_Player",
+            "offset": "0x2477a4"
+        },
+        {
+            "title": "Team Base Exterior_WorldsBalance_Partner",
+            "offset": "0x238b24"
         }
     ]
 }
