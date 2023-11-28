@@ -400,6 +400,10 @@
         {
             "title": "Team Base Exterior_CaterpieSeeksHelp_Caterpie",
             "offset": "0x229754"
+        },
+        {
+            "title": "Team Base Exterior_CaterpieSeeksHelp_Camera",
+            "offset": "0x2221ac"
         }
     ]
 }
