@@ -568,6 +568,186 @@
         {
             "title": "Town Square_TeamHearsAboutLegend_Camera",
             "offset": "0x1b9998"
+        },
+        {
+            "title": "WhiscashPond_NinetalesStory_WhiscashInteraction",
+            "offset": "0x1f0dc4"
+        },
+        {
+            "title": "WhiscashPond_NinetalesStory_Player",
+            "offset": "0x1f3634"
+        },
+        {
+            "title": "WhiscashPond_NinetalesStory_Partner",
+            "offset": "0x1f07f4"
+        },
+        {
+            "title": "WhiscashPond_NinetalesStory_Whiscash",
+            "offset": "0x1efde4"
+        },
+        {
+            "title": "WhiscashPond_NinetalesStory_Camera",
+            "offset": "0x1ee25c"
+        },
+        {
+            "title": "Town Square_PartnerLeavesEarly_Main",
+            "offset": "0x1b9a98"
+        },
+        {
+            "title": "Town Square_PartnerLeavesEarly_Player",
+            "offset": "0x1c4578"
+        },
+        {
+            "title": "Team Base Exterior_PartnerLeavesEarly_Main",
+            "offset": "0x220144"
+        },
+        {
+            "title": "Dream World_FourthDream_Main",
+            "offset": "0x2821e0"
+        },
+        {
+            "title": "Team Base Interior_MorningAfterFourthDreamPart1_Main",
+            "offset": "0x253494"
+        },
+        {
+            "title": "Team Base Interior_MorningAfterFourthDreamPart1_Player",
+            "offset": "0x256044"
+        },
+        {
+            "title": "WhiscashPond_NinetalesStoryFlashback_Main",
+            "offset": "0x1eee3c"
+        },
+        {
+            "title": "Team Base Interior_MorningAfterFourthDreamPart2_Player",
+            "offset": "0x254514"
+        },
+        {
+            "title": "Team Base Exterior_PartnerHeardCommotionInSquare_Player",
+            "offset": "0x22f1a4"
+        },
+        {
+            "title": "Team Base Exterior_PartnerHeardCommotionInSquare_Partner",
+            "offset": "0x223b5c"
+        },
+        {
+            "title": "Town Square_TeamNoticesCommotion_Main",
+            "offset": "0x1c46c8"
+        },
+        {
+            "title": "Town Square_GengarAccusesPlayer_Main",
+            "offset": "0x1b9b18"
+        },
+        {
+            "title": "Team Base Exterior_AfterTheAccusation_Main",
+            "offset": "0x21dac4"
+        },
+        {
+            "title": "Team Base Exterior_BeforeRunningAwayAsFugitives_Main",
+            "offset": "0x228484"
+        },
+        {
+            "title": "Team Base Exterior_BeforeRunningAwayAsFugitives_Player",
+            "offset": "0x22e734"
+        },
+        {
+            "title": "Team Base Exterior_BeforeRunningAwayAsFugitives_Partner",
+            "offset": "0x21efe4"
+        },
+        {
+            "title": "Team Base Exterior_BeginFugitiveSequence_Main",
+            "offset": "0x219ccc"
+        },
+        {
+            "title": "Team Base Exterior_AlakazamTellsYouToRun_Main",
+            "offset": "0x21f0e4"
+        },
+        {
+            "title": "Team Base Exterior_EveryoneSaysGoodbye_Main",
+            "offset": "0x21f164"
+        },
+        {
+            "title": "Fugitive Cutscene Fissure_FugitiveScene_Main",
+            "offset": "0x28853c"
+        },
+        {
+            "title": "Fugitive Cutscene Forest_FugitiveScene_Main",
+            "offset": "0x288c88"
+        },
+        {
+            "title": "Lapis Cave Entrance_Intro_Main",
+            "offset": "0x2b5878"
+        },
+        {
+            "title": "Lapis Cave Exit_Intro_Main",
+            "offset": "0x2b74e0"
+        },
+        {
+            "title": "Lapis Cave - Mt Blaze_Intro1_Main",
+            "offset": "0x2893e4"
+        },
+        {
+            "title": "Mt Blaze Distance_LapisCaveScene_Main",
+            "offset": "0x28ad7c"
+        },
+        {
+            "title": "Lapis Cave - Mt Blaze_Intro2_Main",
+            "offset": "0x289644"
+        },
+        {
+            "title": "Mt Blaze Entrance_Intro_Main",
+            "offset": "0x2b9668"
+        },
+        {
+            "title": "Mt Blaze Entrance_Intro_Player",
+            "offset": "0x2b9b28"
+        },
+        {
+            "title": "Mt Blaze Entrance_Intro_Partner",
+            "offset": "0x2b8ff8"
+        },
+        {
+            "title": "Mt Blaze Entrance_PartnerDialogue_Player",
+            "offset": "0x2ba258"
+        },
+        {
+            "title": "Mt Blaze Summit_BossDefeat_Main",
+            "offset": "0x2bc50c"
+        },
+        {
+            "title": "Mt Blaze Distance_TeamLeavesAfterMoltres_Main",
+            "offset": "0x28aebc"
+        },
+        {
+            "title": "Snowy Trail_TeamWalksPart1_Main",
+            "offset": "0x28c5f8"
+        },
+        {
+            "title": "Snowy Trail_TeamWalksPart2_Main",
+            "offset": "0x28c688"
+        },
+        {
+            "title": "Snowy Trail - Frosty Forest_Scenery_Main",
+            "offset": "0x28d7d0"
+        },
+        {
+            "title": "Frosty Forest Entrance_Intro_Main",
+            "offset": "0x2bef34"
+        },
+        {
+            "title": "Frosty Forest Entrance_Intro_Player",
+            "offset": "0x2bfbe4"
+        },
+        {
+            "title": "Frosty Forest Entrance_Intro_Partner",
+            "offset": "0x2becb4"
+        },
+        {
+            "title": "Frosty Forest Entrance_Intro_Camera",
+            "offset": "0x2bedf4"
+        },
+        {
+            "title": "Frosty Forest Entrance_PartnerDialogue_Player",
+            "offset": "0x2c0204"
         }
     ]
 }
