@@ -540,6 +540,34 @@
         {
             "title": "Team Base Exterior_WorldsBalance_Partner",
             "offset": "0x238b24"
+        },
+        {
+            "title": "Town Square_TeamHearsAboutLegend_Main",
+            "offset": "0x1b8590"
+        },
+        {
+            "title": "Town Square_TeamHearsAboutLegend_Player",
+            "offset": "0x1daba0"
+        },
+        {
+            "title": "Town Square_TeamHearsAboutLegend_Partner",
+            "offset": "0x1c7d58"
+        },
+        {
+            "title": "Town Square_TeamHearsAboutLegend_Lombre",
+            "offset": "0x1c6390"
+        },
+        {
+            "title": "Town Square_TeamHearsAboutLegend_Bellsprout",
+            "offset": "0x1bedc8"
+        },
+        {
+            "title": "Town Square_TeamHearsAboutLegend_Snubbull",
+            "offset": "0x1ba8a8"
+        },
+        {
+            "title": "Town Square_TeamHearsAboutLegend_Camera",
+            "offset": "0x1b9998"
         }
     ]
 }
