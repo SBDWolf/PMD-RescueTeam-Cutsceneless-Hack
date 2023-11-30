@@ -1,0 +1,4 @@
+- Investigate why overworld menu options are limitied to "others"
+- Remove some multiple choice prompts before sinister woods, roughly
+- Make sure mail is being delivered properly on every day
+- Empty out textboxes in pre-boss scenes

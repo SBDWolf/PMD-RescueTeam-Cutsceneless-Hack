@@ -748,6 +748,226 @@
         {
             "title": "Frosty Forest Entrance_PartnerDialogue_Player",
             "offset": "0x2c0204"
+        },
+        {
+            "title": "Frosty Summit_BossDefeat_Main",
+            "offset": "0x2c28ec"
+        },
+        {
+            "title": "Frosty Summit_BossDefeat_Player",
+            "offset": "0x2c312c"
+        },
+        {
+            "title": "Frosty Summit_BossDefeat_Partner",
+            "offset": "0x2c2bcc"
+        },
+        {
+            "title": "Frosty Summit_BossDefeat_Articuno",
+            "offset": "0x2c2d8c"
+        },
+        {
+            "title": "Frosty Summit_BossDefeat_Absol",
+            "offset": "0x2c2a4c"
+        },
+        {
+            "title": "Frigid Trail_TeamWalksPart1_Main",
+            "offset": "0x28ed44"
+        },
+        {
+            "title": "DreamWorld_FrigidTrailFlashBack_Main",
+            "offset": "0x282010"
+        },
+        {
+            "title": "Frigid Trail_TeamWalksPart2_Main",
+            "offset": "0x28ecc4"
+        },
+        {
+            "title": "Mt Freeze Entrance_Intro_Player",
+            "offset": "0x2c7268"
+        },
+        {
+            "title": "Mt Freeze Entrance_Intro_Partner",
+            "offset": "0x2c6748"
+        },
+        {
+            "title": "Mt Freeze Entrance_PartnerDialogue_Player",
+            "offset": "0x2c6d78"
+        },
+        {
+            "title": "Mt Freeze Summit_FugitiveSuccess_Main",
+            "offset": "0x2cabec"
+        },
+        {
+            "title": "Mt Freeze Summit_NinetalesMeeting_Main",
+            "offset": "0x2cb2dc"
+        },
+        {
+            "title": "Town Square_TeamReturnsFromFugitive_Main",
+            "offset": "0x1c1b90"
+        },
+        {
+            "title": "Team Base Interior_MorningAfterFugitive_Main",
+            "offset": "0x255754"
+        },
+        {
+            "title": "Team Base Interior_MorningAfterFugitive_Player",
+            "offset": "0x251f84"
+        },
+        {
+            "title": "Team Base Exterior_FirstDayAfterFugitive_Main",
+            "offset": "0x2253ac"
+        },
+        {
+            "title": "Team Base Exterior_FirstDayAfterFugitive_Player",
+            "offset": "0x232ce4"
+        },
+        {
+            "title": "Team Base Exterior_FirstDayAfterFugitive_Partner",
+            "offset": "0x225a7c"
+        },
+        {
+            "title": "Team Base Exterior_FirstDayAfterFugitive_Pelipper",
+            "offset": "0x22d094"
+        },
+        {
+            "title": "Dream World_FifthDream_Main",
+            "offset": "0x282470"
+        },
+        {
+            "title": "Team Base Interior_MorningAfterFifthDreamPart1_Main",
+            "offset": "0x253654"
+        },
+        {
+            "title": "Dream World_MorningAfterFifthDreamFlashback_Main",
+            "offset": "0x281fa0"
+        },
+        {
+            "title": "Team Base Interior_MorningAfterFifthDreamPart2_Main",
+            "offset": "0x253734"
+        },
+        {
+            "title": "Team Base Interior_MorningAfterFifthDreamPart2_Player",
+            "offset": "0x253814"
+        },
+        {
+            "title": "Team Base Exterior_PartnerDiscussesEarthquake_Main",
+            "offset": "0x2244fc"
+        },
+        {
+            "title": "Team Base Exterior_PartnerDiscussesEarthquake_Player",
+            "offset": "0x235e84"
+        },
+        {
+            "title": "Team Base Exterior_PartnerDiscussesEarthquake_Partner",
+            "offset": "0x221c4c"
+        },
+        {
+            "title": "Team Base Exterior_WynautIntroduction_Main",
+            "offset": "0x21c174"
+        },
+        {
+            "title": "Team Base Exterior_WynautIntroduction_Player",
+            "offset": "0x23afa4"
+        },
+        {
+            "title": "Team Base Exterior_WynautIntroduction_Partner",
+            "offset": "0x22f814"
+        },
+        {
+            "title": "Team Base Exterior_WynautIntroduction_Wynaut",
+            "offset": "0x229054"
+        },
+        {
+            "title": "Team Base Exterior_WynautIntroduction_Wobbuffet",
+            "offset": "0x230c84"
+        },
+        {
+            "title": "Team Base Exterior_WynautIntroduction_Camera",
+            "offset": "0x21d904"
+        },
+        {
+            "title": "Pelipper Post Office Exterior_WynautMissionAccepted_Main",
+            "offset": "0x1fb258"
+        },
+        {
+            "title": "Pelipper Post Office Exterior_WynautMissionAccepted_Player",
+            "offset": "0x201ec0"
+        },
+        {
+            "title": "Pelipper Post Office Exterior_WynautMissionAccepted_Partner",
+            "offset": "0x1fd7c0"
+        },
+        {
+            "title": "Pelipper Post Office Exterior_WynautMissionAccepted_Wynaut",
+            "offset": "0x1fb958"
+        },
+        {
+            "title": "Pelipper Post Office Exterior_WynautMissionAccepted_Wobbuffet",
+            "offset": "0x1feae0"
+        },
+        {
+            "title": "Team Base Exterior_UproarForestDebriefPart1_Main",
+            "offset": "0x21f5a4"
+        },
+        {
+            "title": "Team Base Exterior_UproarForestDebriefPart2_Main",
+            "offset": "0x2280c4"
+        },
+        {
+            "title": "Team Base Interior_MorningAfterUproarForest_Player",
+            "offset": "0x2526e4"
+        },
+        {
+            "title": "Team Base Exterior_GivingChestnutToMankeys_Player",
+            "offset": "0x23d7d4"
+        },
+        {
+            "title": "Team Base Exterior_TeamBaseComplete_Main",
+            "offset": "0x22f3c4"
+        },
+        {
+            "title": "Team Base Interior_MorningOnAnotherEarthquake_Main",
+            "offset": "0x254af4"
+        },
+        {
+            "title": "Team Base Interior_MorningOnAnotherEarthquake_Player",
+            "offset": "0x25695c"
+        },
+        {
+            "title": "Team Base Exterior_LombreCallsToTownSquare_Main",
+            "offset": "0x21f264"
+        },
+        {
+            "title": "Town Square_BlastoiseTeamForms_Main",
+            "offset": "0x1baa58"
+        },
+        {
+            "title": "Team Base Exterior_TeamLetsBlastoiseGoToMagmaCavern_Player",
+            "offset": "0x229314"
+        },
+        {
+            "title": "Team Base Interior_MorningOnLastEarthquake_Main",
+            "offset": "0x2538f4"
+        },
+        {
+            "title": "Team Base Interior_MorningOnLastEarthquake_Player",
+            "offset": "0x2574ec"
+        },
+        {
+            "title": "Town Square_BlastoiseWiped_Main",
+            "offset": "0x1bb498"
+        },
+        {
+            "title": "Team Base Exterior_TeamPreparesForMagmaCavern_Player",
+            "offset": "0x22a164"
+        },
+        {
+            "title": "Team Base Exterior_TeamPreparesForMagmaCavernPartnerDialogue_Partner",
+            "offset": "0x22df74"
+        },
+        {
+            "title": "Dream World_SixthDream_Main",
+            "offset": "0x282280"
         }
     ]
 }
