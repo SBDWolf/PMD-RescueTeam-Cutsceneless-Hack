@@ -968,6 +968,194 @@
         {
             "title": "Dream World_SixthDream_Main",
             "offset": "0x282280"
+        },
+        {
+            "title": "Team Base Interior_MorningBeforeMagmaCavern_Main",
+            "offset": "0x255c54"
+        },
+        {
+            "title": "Team Base Interior_MorningBeforeMagmaCavern_Player",
+            "offset": "0x252284"
+        },
+        {
+            "title": "Team Base Exterior_MorningBeforeMagmaCavern_Player",
+            "offset": "0x233fc4"
+        },
+        {
+            "title": "Team Base Exterior_MorningBeforeMagmaCavern_Partner",
+            "offset": "0x220a04"
+        },
+        {
+            "title": "Team Base Exterior_MorningBeforeMagmaCavern_Camera",
+            "offset": "0x221f4c"
+        },
+        {
+            "title": "Magma Cavern Entrance_Intro_Main",
+            "offset": "0x2cfabc"
+        },
+        {
+            "title": "Magma Cavern Depths_TeamACTRescue_Main",
+            "offset": "0x2d18ac"
+        },
+        {
+            "title": "Town Square_TeamReturnsFromMagmaCavern_Main",
+            "offset": "0x1c1690"
+        },
+        {
+            "title": "Hill of the Ancients_XatuAnnouncesMeteoriteFallPart1_Main",
+            "offset": "0x2923bc"
+        },
+        {
+            "title": "Meteor_XatuAnnouncesMeteoriteFall_Main",
+            "offset": "0x29a9e4"
+        },
+        {
+            "title": "Hill of the Ancients_XatuAnnouncesMeteoriteFallPart2_Main",
+            "offset": "0x29203c"
+        },
+        {
+            "title": "Town Square_TeamPreparesForSkyTower_Main",
+            "offset": "0x1b9798"
+        },
+        {
+            "title": "Town Square_TeamPreparesForSkyTower_PartnerDialogue",
+            "offset": "0x1ca2c0"
+        },
+        {
+            "title": "Dream Eater World_GengarUsesDreamEater_Main",
+            "offset": "0x287798"
+        },
+        {
+            "title": "Team Base Interior_GengarUsesDreamEater_Main",
+            "offset": "0x252784"
+        },
+        {
+            "title": "Dream Eater World_End_Main",
+            "offset": "0x287438"
+        },
+        {
+            "title": "Dream World_Final Dream_Main",
+            "offset": "0x282140"
+        },
+        {
+            "title": "Team Base Interior_MorningBeforeSkyTower_Main",
+            "offset": "0x254d54"
+        },
+        {
+            "title": "Team Base Interior_MorningBeforeSkyTower_Player",
+            "offset": "0x251784"
+        },
+        {
+            "title": "Team Base Exterior_MorningBeforeSkyTower_Player",
+            "offset": "0x2265ec"
+        },
+        {
+            "title": "Team Base Exterior_MorningBeforeSkyTower_Partner",
+            "offset": "0x21f364"
+        },
+        {
+            "title": "Hill of the Ancients_TeleportGemPart1_Main",
+            "offset": "0x2925ec"
+        },
+        {
+            "title": "Dream World_TeleportGemFlashback_Main",
+            "offset": "0x281f30"
+        },
+        {
+            "title": "Hill of the Ancients_TeleportGemPart1_Main",
+            "offset": "0x29243c"
+        },
+        {
+            "title": "Sky Tower Entrance_IntroPart1_Main",
+            "offset": "0x2d2de0"
+        },
+        {
+            "title": "Sky Tower Outside View_SkyTowerEntranceIntroScene_Main",
+            "offset": "0x29a394"
+        },
+        {
+            "title": "Sky Tower Entrance_IntroPart2_Main",
+            "offset": "0x2d2d60"
+        },
+        {
+            "title": "Sky Tower Heights_BossDefeatPart1_Main",
+            "offset": "0x2d5488"
+        },
+        {
+            "title": "Meteor_SkyTowerMeteorPart1_Main",
+            "offset": "0x29a924"
+        },
+        {
+            "title": "Sky Tower Heights_BossDefeatPart2_Main",
+            "offset": "0x2d5658"
+        },
+        {
+            "title": "Meteor_SkyTowerMeteorPart2_Main",
+            "offset": "0x29aab4"
+        },
+        {
+            "title": "Sky Tower Heights_BossDefeatPart3_Main",
+            "offset": "0x2d5888"
+        },
+        {
+            "title": "SpiritWorld_GengarSavesPlayer_Main",
+            "offset": "0x29b0f8"
+        },
+        {
+            "title": "Hill of the Ancients_TeamReturnsFromSkyTower_Main",
+            "offset": "0x2924cc"
+        },
+        {
+            "title": "Town Square_TeamReturnsFromSkyTower_Main",
+            "offset": "0x1b8a60"
+        },
+        {
+            "title": "Whiscash Pond_TeamReturnsFromSkyTower_Main",
+            "offset": "0x1ef884"
+        },
+        {
+            "title": "Pelipper Post Office Exterior_TeamReturnsFromSkyTower_Main",
+            "offset": "0x1fb4d8"
+        },
+        {
+            "title": "Hill of the Ancients_PlayerReturnsHomePart1_Main",
+            "offset": "0x29233c"
+        },
+        {
+            "title": "Hill of the Ancients_PlayerReturnsHomePart2_Main",
+            "offset": "0x29255c"
+        },
+        {
+            "title": "Player Returning Home_Orb_Main",
+            "offset": "0x29bf48"
+        },
+        {
+            "title": "Player Returning Home_Orb_Player",
+            "offset": "0x29c188"
+        },
+        {
+            "title": "Starry Sky_CreditsIntro_Main",
+            "offset": "0x29c5c8"
+        },
+        {
+            "title": "Starry Sky_Credits_Main",
+            "offset": "0x29c708"
+        },
+        {
+            "title": "Player Returning To Team Base_Orb_Main",
+            "offset": "0x29be78"
+        },
+        {
+            "title": "Player Returning To Team Base_Orb_Player",
+            "offset": "0x29c048"
+        },
+        {
+            "title": "Team Base Exterior_Reunion_Main",
+            "offset": "0x2220dc"
+        },
+        {
+            "title": "End Card_CreditsEnd_Main",
+            "offset": "0x29ce0c"
         }
     ]
 }
