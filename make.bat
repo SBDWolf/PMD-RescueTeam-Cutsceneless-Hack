@@ -1,4 +1,4 @@
-set rom_version=0.1dev
+set rom_version=1.0
 set rom_name=PMD_BRT_Cutsceneless_v%rom_version%.nds
 
 IF NOT EXIST rom_output mkdir rom_output
