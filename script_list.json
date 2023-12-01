@@ -1156,6 +1156,46 @@
         {
             "title": "End Card_CreditsEnd_Main",
             "offset": "0x29ce0c"
+        },
+        {
+            "title": "Team Base Exterior_PlayerWakesPartner_Pelipper",
+            "offset": "0x22c964"
+        },
+        {
+            "title": "Team Base Exterior_PelipperBringsMail_Main",
+            "offset": "0x222ddc"
+        },
+        {
+            "title": "Team Base Exterior_PelipperBringsMail_Pelipper",
+            "offset": "0x22c7a4"
+        },
+        {
+            "title": "Team Base Exterior_PelipperBringsMail_Camera1",
+            "offset": "0x21c6b4"
+        },
+        {
+            "title": "Team Base Exterior_PelipperBringsMail_Camera2",
+            "offset": "0x219eac"
+        },
+        {
+            "title": "Pelipper Post Office Interior_SegmentOfStartupCinematic_Main",
+            "offset": "0x203c60"
+        },
+        {
+            "title": "Company Screens_Intro_Main",
+            "offset": "0x2e2f4c"
+        },
+        {
+            "title": "Pelipper Post Office Exterior_SegmentOfStartupCinematic_Main",
+            "offset": "0x1fb558"
+        },
+        {
+            "title": "Above The Town_SegmentOfStartupCinematic_Main",
+            "offset": "0x2e2a88"
+        },
+        {
+            "title": "Title Screen_TitleScreen_Main",
+            "offset": "0x2e2460"
         }
     ]
 }
