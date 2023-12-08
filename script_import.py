@@ -17,7 +17,7 @@ for script in script_data['scripts']:
     script_title = script['title']
     script_offset = int(script['offset'], 16)
 
-    input_script_file = r".\src\\" + "{:03d}".format(script_index) + " - " + script_title + ".txt"
+    input_script_file = r".\src\scripts\\" + "{:03d}".format(script_index) + " - " + script_title + ".txt"
     script_index = script_index + 1
 
     with open(target_rom, "r+b") as rom:
