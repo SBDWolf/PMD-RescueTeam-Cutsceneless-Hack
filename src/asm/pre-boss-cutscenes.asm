@@ -585,6 +585,27 @@
     nop
 
 
+; mankey cutscene edit
+.org 0x00180ab8
+    nop
+    nop
+    nop
+    nop
+    nop
+    nop
+    nop
+    nop
+    nop
+    nop
+    nop
+    nop
+    nop
+    nop
+    nop
+    nop
+    nop
+
+
 ; magma cavern pit 2f cutscene edit
 .org 0x0017ff44
     nop

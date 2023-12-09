@@ -1,4 +1,4 @@
-set rom_version=1.1
+set rom_version=1.1.1
 set rom_name=PMD_BRT_Cutsceneless_v%rom_version%.nds
 set temp_rom_name=temp.nds
 
