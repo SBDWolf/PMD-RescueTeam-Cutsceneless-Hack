@@ -1,10 +1,7 @@
 # PMD-RescueTeam-Cutsceneless-Hack
 A Hack of Pokémon Mystery Dungeon: Blue Rescue Team that removes cutscenes while keeping gameplay as intact as possible.
 
-Most irrelevant cutscenes in the Any% run have been removed. A few notable things are left intact right now:
-- Pre-boss cutscenes.
-- The floaty text in the middle of Frosty Forest.
-These cutscenes are hard-coded outside of the scripting engine (not so confident about the Frosty Forest text, but the pre-boss cutsccenes definitely), making them more difficult to edit.
+Thus far, the Any% portion has been completed.
 
 Additionally, the sequence leading up to the title screen has been completely removed.
 
